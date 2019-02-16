@@ -4,31 +4,7 @@ The model can be used to classify more types of plants, simply add more labeled 
 I used [Siraj Raval's TensorFlow tutorials](https://www.youtube.com/watch?v=QfNvhPx5Px8) to develop this. 
 Another useful resource for working with TensorFlow's Inception V3 Model is [CodeLab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0).
 
-Please not this does not classify hybrids, subspecies or cultivars of the time being
-
-Species added so far:
-Aldrovanda vesiculosa
-Dionaea muscipula
-Drosera aberrans
-Drosera acaulis
-Drosera adelae
-Drosera admirailis
-Drosera affinis
-Drosera afra
-Drosera alba
-Drosera albonotata
-Drosera aliciae
-Drosera allantostigma
-Drosera amazonica
-Drosera androsacea
-Drosera anglica
-Drosera aquatica
-Drosera arcturi
-Drosera arenicola
-Drosera ascendens
-Drosera aurantiaca
-Drosera auriculata
-Drosera australis
+**Please not this does not classify hybrids, subspecies or cultivars of the time being**
 
 ## Requirements
 
